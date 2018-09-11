@@ -7,3 +7,4 @@ Pic98/Pic98/appsettings.json
 Pic98/Pic98/appsettings.Development.json
 Pic98/Pic98/appsettings.Development.json
 .vendor/bin/pic98.exe
+.vendor/src/pic98/
